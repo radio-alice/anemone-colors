@@ -35,7 +35,7 @@
     "list.hoverForeground": "#150049",
     "list.hoverBackground": "#85BAFF",
     "list.focusForeground": "#150049",
-    "list.focusBackground": "#150049",
+    "list.focusBackground": "#DFE3FF",
     "editorWidget.background": "#1C0652",
     "editorWidget.border": "#6377e7",
     "menu.background": "#150049",
