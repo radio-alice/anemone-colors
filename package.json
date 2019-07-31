@@ -1,0 +1,21 @@
+{
+  "name": "anemones",
+  "displayName": "anemones",
+  "description": "colors for underwater friends",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "anemones-purple",
+        "uiTheme": "vs",
+        "path": "./themes/anemones-purp-theme.color-theme.json"
+      }
+    ]
+  }
+}
