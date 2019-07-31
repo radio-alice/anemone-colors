@@ -17,7 +17,7 @@
     "sideBarTitle.foreground": "#FF4AB9",
     "editorSuggestWidget.background": "#1C0652",
     "editorUnnecessaryCode.opacity": "#ffffff",
-    "editorUnnecessaryCode.border": "#85BAFF",
+    "editorUnnecessaryCode.border": "#85BDFF",
     "sideBar.background": "#231C51",
     "sideBar.foreground": "#E6DCFF",
     "tab.activeBackground": "#7F75B8",
@@ -30,14 +30,14 @@
     "editorGroupHeader.tabsBackground": "#231C51",
     "editorGroupHeader.tabsBorder": "#7F75B8",
     "list.inactiveSelectionBackground": "#7F75B8",
-    "list.activeSelectionBackground": "#85BAFF",
+    "list.activeSelectionBackground": "#85BDFF",
     "list.activeSelectionForeground": "#150049",
     "list.hoverForeground": "#150049",
-    "list.hoverBackground": "#85BAFF",
+    "list.hoverBackground": "#85BDFF",
     "list.focusForeground": "#150049",
     "list.focusBackground": "#DFE3FF",
     "editorWidget.background": "#1C0652",
-    "editorWidget.border": "#6377e7",
+    "editorWidget.border": "#7f75b8",
     "menu.background": "#150049",
     "menu.foreground": "#FFC8F5",
     "settings.textInputForeground": "#FFC8F5",
@@ -57,7 +57,7 @@
     "input.background": "#382e74",
     "textPreformat.foreground": "#FFC8F5",
     "button.background": "#7F75B8",
-    "editorLineNumber.foreground": "#85BAFF",
+    "editorLineNumber.foreground": "#85BDFF",
     "editor.lineHighlightBackground": "#392F74",
     "editorCursor.foreground": "#FF4AB9",
     "editorWhitespace.foreground": "#7F75B8",
@@ -65,7 +65,14 @@
     "badge.foreground": "#FF4AB9",
     "gitlens.gutterForegroundColor": "#C2CAFF",
     "gitlens.trailingLineForegroundColor": "#C2CAFF",
-    "gitlens.lineHighlightOverviewRulerColor": "#C2CAFF"
+    "gitlens.lineHighlightOverviewRulerColor": "#C2CAFF",
+    "gitDecoration.modifiedResourceForeground": "#fff3c5",
+    "gitDecoration.addedResourceForeground": "#b6ebcf",
+    "gitDecoration.ignoredResourceForeground": "#98A1E0",
+    "gitDecoration.conflictingResourceForeground": "#FF4AB9",
+    "gitDecoration.deletedResourceForeground": "#ffc7b2",
+    "list.errorForeground": "#FF9ECE",
+    "list.warningForeground": "#ffc7b2"
   },
   "tokenColors": [
     {
@@ -218,7 +225,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#FFD9EA"
+        "foreground": "#8dbfff"
       }
     },
     {
@@ -285,7 +292,7 @@
         "support.constant.property-value"
       ],
       "settings": {
-        "foreground": "#D3AFFF"
+        "foreground": "#ff92f9"
       }
     },
     {
@@ -334,7 +341,7 @@
       "name": "Markup: Link",
       "scope": "meta.link",
       "settings": {
-        "foreground": "#85BAFF"
+        "foreground": "#85BDFF"
       }
     },
     {
@@ -348,7 +355,7 @@
       "name": "Markup: Prompt",
       "scope": "markup.prompt",
       "settings": {
-        "foreground": "#BDE8FF"
+        "foreground": "#c7fffe"
       }
     },
     {
@@ -383,7 +390,7 @@
       "name": "Markup Quote",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#BDE8FF"
+        "foreground": "#c7fffe"
       }
     },
     {
@@ -397,7 +404,7 @@
       "name": "Markup Styling",
       "scope": ["markup.bold", "markup.italic"],
       "settings": {
-        "foreground": "#FFC8FF"
+        "foreground": "#ff6eb6"
       }
     },
     {
