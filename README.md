@@ -1,7 +1,7 @@
 # Colors for Anemones
 
-[light theme](/light.png)
-[dark theme](/dark.png)
+![light theme](light.png)
+![dark theme](dark.png)
 
 #bracket-pair settings for purple theme:
 
