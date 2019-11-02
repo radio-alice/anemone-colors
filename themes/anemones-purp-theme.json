@@ -1,5 +1,5 @@
 {
-  "name": "anemones",
+  "name": "anemones-purple",
   "type": "dark",
   "colors": {
     "foreground": "#FFC8F5",
@@ -10,11 +10,13 @@
     "editorIndentGuide.activeBackground": "#7F75B8",
     "editorRuler.foreground": "#7F75B8",
     "activityBar.background": "#231C51",
+    "activityBar.border": "#392F74",
     "activityBar.foreground": "#E6DCFF",
     "statusBar.background": "#231C51",
     "statusBar.foreground": "#E6DCFF",
     "breadcrumb.foreground": "#FFC8F5",
     "sideBarTitle.foreground": "#FF4AB9",
+    "sideBarSectionHeader.foreground": "#e6dcff",
     "editorSuggestWidget.background": "#1C0652",
     "editorUnnecessaryCode.opacity": "#ffffff",
     "editorUnnecessaryCode.border": "#85BDFF",
@@ -57,6 +59,7 @@
     "input.background": "#382e74",
     "textPreformat.foreground": "#FFC8F5",
     "button.background": "#7F75B8",
+    "button.foreground": "#E6DCFF",
     "editorLineNumber.foreground": "#85BDFF",
     "editor.lineHighlightBackground": "#392F74",
     "editorCursor.foreground": "#FF4AB9",
@@ -72,7 +75,9 @@
     "gitDecoration.conflictingResourceForeground": "#FF4AB9",
     "gitDecoration.deletedResourceForeground": "#ffc7b2",
     "list.errorForeground": "#FF9ECE",
-    "list.warningForeground": "#ffc7b2"
+    "list.warningForeground": "#ffc7b2",
+    "titleBar.activeBackground": "#C2CAFF",
+    "titleBar.inactiveBackground": "#C2CAFF"
   },
   "tokenColors": [
     {

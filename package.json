@@ -13,8 +13,18 @@
     "themes": [
       {
         "label": "anemones-purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anemones-purp-theme.json"
+      },
+      {
+        "label": "anemones-dark-purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anemones-dark-purp.json"
+      },
+      {
+        "label": "anemones-light-purple",
         "uiTheme": "vs",
-        "path": "./themes/anemones-purp-theme.color-theme.json"
+        "path": "./themes/anemones-light-purp.json"
       }
     ]
   }
