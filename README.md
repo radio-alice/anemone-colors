@@ -1,17 +1,26 @@
 # Colors for Anemones
 
+## themes for vscode/vscodium
+
 ![light theme](light.png)
 ![dark theme](dark.png)
 
-#bracket-pair settings for purple theme:
+## Installation
+
+1. `git clone https://github.com/radio-alice/anemone-colors`
+2. `mv anemone-colors ~/.vscode/extensions` or `mv anemone-colors ~/.vscodium/extensions`
+3. Settings > Workbench: color theme > anemones-dark-purple || anemones-dark-purple
+
+### bracket-pair settings for purple theme:
+
+(add to settings.json)
 
 ```
 "bracket-pair-colorizer-2.colors": [
-    "#BDE8FF",
-    "#FFC8F5",
-    "#FFF3C5",
-    "#B6EBCF",
-    "#ff5cad"
+    "#0088FF",
+    "#FF1C8D",
+    "#00E3E2",
+    "#5500B7"
   ],
 ```
 
