@@ -33,7 +33,7 @@
       },
       {
         "label": "clouds-dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/clouds-dark.json"
       }
     ]
