@@ -25,6 +25,16 @@
         "label": "anemones-light-purple",
         "uiTheme": "vs",
         "path": "./themes/anemones-light-purp.json"
+      },
+      {
+        "label": "clouds-light",
+        "uiTheme": "vs",
+        "path": "./themes/clouds-light.json"
+      },
+      {
+        "label": "clouds-dark",
+        "uiTheme": "vs",
+        "path": "./themes/clouds-dark.json"
       }
     ]
   }
