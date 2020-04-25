@@ -8,7 +8,7 @@
 ## Installation
 
 1. `git clone https://github.com/radio-alice/anemone-colors`
-2. `mv anemone-colors ~/.vscode/extensions` or `mv anemone-colors ~/.vscodium/extensions`
+2. `mv anemone-colors ~/.vscode/extensions` or `mv anemone-colors ~/.vscode-oss/extensions` if you're using vscodium
 3. Settings > Workbench: color theme > anemones-dark-purple || anemones-dark-purple
 
 ### bracket-pair settings for purple theme:
