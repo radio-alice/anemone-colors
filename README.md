@@ -2,10 +2,10 @@
 
 ## themes for vscode/vscodium
 
-![anemones](https://github.com/radio-alice/anemone-colors/blob/master/anemones.png)
-![sea urchin](https://github.com/radio-alice/anemone-colors/blob/master/sea-urchin.png)
-![vaquita](https://github.com/radio-alice/anemone-colors/blob/master/vaquita.png)
-![manatee](https://github.com/radio-alice/anemone-colors/blob/master/manatee.png)
+![anemones](https://github.com/radio-alice/anemone-colors/fern/anemones.png)
+![sea urchin](https://github.com/radio-alice/anemone-colors/fern/sea-urchin.png)
+![vaquita](https://github.com/radio-alice/anemone-colors/fern/vaquita.png)
+![manatee](https://github.com/radio-alice/anemone-colors/fern/manatee.png)
 
 ## Installation
 
