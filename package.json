@@ -1,8 +1,13 @@
 {
-  "name": "anemones",
-  "displayName": "anemones",
+  "name": "anemone-colors",
+  "publisher": "anemones",
+  "displayName": "Anemone Colors",
   "description": "colors for underwater friends",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "repository": "https://github.com/radio-alice/anemone-colors",
+  "galleryBanner": {
+    "color": "#eae2ff"
+  },
   "engines": {
     "vscode": "^1.36.0"
   },
@@ -32,5 +37,10 @@
         "path": "./themes/Vaquita.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "e7d843fe-92f1-4be8-8754-8686d20ac729",
+    "publisherDisplayName": "anemones",
+    "publisherId": "7878847b-f264-4646-bae1-f2ee3251e7b3"
   }
 }
