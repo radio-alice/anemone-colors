@@ -12,29 +12,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "anemones-purple",
+        "label": "Sea Urchin",
         "uiTheme": "vs-dark",
-        "path": "./themes/anemones-purp-theme.json"
+        "path": "./themes/sea-urchin.json"
       },
       {
-        "label": "anemones-dark-purple",
-        "uiTheme": "vs-dark",
-        "path": "./themes/anemones-dark-purp.json"
-      },
-      {
-        "label": "anemones-light-purple",
+        "label": "Anemones",
         "uiTheme": "vs",
-        "path": "./themes/anemones-light-purp.json"
+        "path": "./themes/anemones.json"
       },
       {
-        "label": "clouds-light",
+        "label": "Manatee",
         "uiTheme": "vs",
-        "path": "./themes/clouds-light.json"
+        "path": "./themes/manatee.json"
       },
       {
-        "label": "clouds-dark",
+        "label": "Vaquita",
         "uiTheme": "vs-dark",
-        "path": "./themes/clouds-dark.json"
+        "path": "./themes/Vaquita.json"
       }
     ]
   }
